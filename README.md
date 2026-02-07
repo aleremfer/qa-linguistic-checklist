@@ -14,8 +14,9 @@ The checklist is intended for evaluators, reviewers, and researchers
 working with LLM outputs in real-world or culturally sensitive contexts.
 
 Related work:
-- See [hallucination-cases](../hallucination-cases) for documented examples of epistemic and factual failures.
-- See [prompt-eval-cases](../prompt-eval-cases) for real-world prompts illustrating these issues in practice.
+- See [hallucination-cases](https://github.com/aleremfer/hallucination-cases) for documented examples of epistemic and factual failures.
+- See [prompt-eval-cases](https://github.com/aleremfer/prompt-eval-cases) for real-world prompts illustrating these issues in practice.
+
 
 Reflections on these patterns are discussed in essays at:
 https://open.substack.com/pub/alejandroremeseiro
