@@ -1,3 +1,6 @@
+This checklist is intended for reviewing LLM outputs in production-like contexts
+(localization, help centers, documentation, marketing copy, support content).
+
 # Linguistic QA Checklist for LLM Outputs
 
 Use this checklist after an initial read-through.
